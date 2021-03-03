@@ -1,0 +1,62 @@
+TYPE,FATAL CRASH #,Number of Fatalities,CASE NUMBER,Location,AREA,Date,Month,Day,Hour,Time,Related,Charge,Killed: Driver/Pass,Speeding,Ran Red Light,Drivers License Status,SUSPECTED IMPAIRMENT,restraint or helmet,TYPE OF ROAD,FTSRA,X COORD,Y COORD
+Motor Vehicle,1,2,14-0030146,S IH35 SB SVRD / E Ben White,David,01/03/2014,Jan,Fri,1,01:53:00,MV/MV,Agg Ass with a motor Vehicle,Driver and Passenger,Y,Y,okay,DRIVER,seatbelts worn,IH-35,No,-97.751802,30.21702
+Motor Vehicle,2,1,14-0121394,6500 Block Burnet Rd,Ida,01/12/2014,Jan,Sun,21,21:15:00,MV/MV,DOO,driver,N,N,okay,DRIVER,no seatbelt,Local,No,-97.738763,30.341347
+Motor Vehicle,3,2,14-350943,Research Blvd/Balcones Woods Dr,Adam,02/04/2014,Feb,Tue,14,14:33:00,MV/MV,DWI,Driver and Passenger,N,Y,okay,DRIVER,unknown,Other High Speed Roadway,No,-97.74472,30.407805
+Motor Vehicle,4,1,14-401238,9500 block East US HWY 290 SVRD EB,Charlie,02/09/2014,Feb,Sun,17,17:51:00,MV/ROR,Intox Assault,Passenger,Y,N,No license,DRIVER,no seatbelt,Other High Speed Roadway,No,-97.630282,30.330002
+Motor Vehicle,5,1,14-420154,6133 E. Ben White,Frank,02/11/2014,Feb,Tue,2,02:37:00,MV/Other,No Charges,Passenger,N,N,okay,DRIVER,no seatbelt,Other High Speed Roadway,No,-97.713735,30.212157
+Motorcycle,6,1,14-0531384,3400 Lynridge Dr.,Ida,02/22/2014,Feb,Sat,18,18:32:00,MC/FO,DOO,MC Driver,Y,N,no MC license,NONE,no helmet,Local,No,-97.665731,30.317548
+Pedestrian,7,1,14-0511533,6400 FM 969,Charlie,02/20/2014,Feb,Thu,19,19:15:00,MV/PED,DOO,Pedestrian,N,N,suspended,PEDESTRIAN,n/a,high speed roadway,No,-97.659822,30.284725
+Pedestrian,8,1,14-0610300,2500 Block N MoPac NB,Baker,03/02/2014,Mar,Sun,2,02:17:00,MV/PED,DOO (FTSRA),Pedestrian,N,N,okay,PEDESTRIAN,n/a,other highway,Yes,-97.759144,30.294215
+Motorcycle,9,1,14-711395,4500 E. MLK,Charlie,03/12/2014,Mar,Wed,17,17:00:00,MV/MC,DOO,Driver,N,N,okay,NONE,no helmet,Local,No,-97.684455,30.28556
+Motorcycle,10,1,14-720068,E 10th/Red River,George,03/13/2014,Mar,Thu,0,00:31:00,MV/MC,Agg Ass with a motor Vehicle,MC Driver,Y,N,No license,DRIVER,unknown,Local,Yes,-97.73581,30.27022
+Pedestrian,10,1,14-720068,E 10th/Red River,George,03/13/2014,Mar,Thu,0,00:31:00,MV/PED,Agg Ass with a motor Vehicle,Pedestrian,Y,N,No license,DRIVER,n/a,Local,Yes,-97.73581,30.27022
+Bicycle,10,1,14-720068,E 10th/Red River,George,03/13/2014,Mar,Thu,0,00:31:00,MV/BI,Agg Ass with a motor Vehicle,Bicyclist,Y,N,No license,DRIVER,n/a,Local,Yes,-97.73581,30.27022
+Pedestrian,10,1,14-720068,E 10th/Red River,George,03/13/2014,Mar,Thu,0,00:31:00,MV/PED,Agg Ass with a motor Vehicle,Pedestrian,Y,N,No license,DRIVER,n/a,Local,Yes,-97.73581,30.27022
+Pedestrian,11,1,14-831574,9200 block N. Lamar,Edward,03/24/2014,Mar,Mon,21,21:20:00,MV/PED,FTSRA,Pedestrian,N,N,unk (FTSRA),PEDESTRIAN,n/a,high speed roadway,yes,-97.698085,30.361117
+Pedestrian,12,1,14-0920362,1200 block S. Lamar,David,04/02/2014,Apr,Wed,7,07:00:00,MV/PED,DOO,Pedestrian,N,N,okay,PEDESTRIAN,n/a,high speed roadway,no,-97.763019,30.253581
+Pedestrian,13,1,14-0980245,Bastrop Hwy SB / Vargas Rd,Henry,04/08/2014,Apr,Tue,6,06:02:00,MV/PED,DOO,Pedestrian,N,N,okay,NONE,n/a,other highway,No,-97.688218,30.239797
+Motorcycle,14,1,14-1080600,"400 E. Anderson Lane
+(on the proper SB)
+7800 Research Blvd SB",Ida,04/18/2014,Apr,Fri,9,09:48:00,MC/FO,DOO,MC Driver,Y,N,okay,NONE,helmet,Other High Speed Roadway,No,-97.7125,30.347593
+Motor Vehicle,15,1,14-1090350,9000 US Hwy 290 E Service Road WB,Charlie,04/19/2014,Apr,Sat,3,03:26:00,MV/MV,Intox Assault,Driver,N,N,okay,DRIVER,seatbelt worn,Other High Speed Roadway,No,-97.655783,30.328984
+Pedestrian,16,1,14-1160156,800 Block N IH35 Service Road NB,George,04/26/2014,Apr,sat,1,01:12:00,MV/PED,DOO,Pedestrian,N,N,okay,DRIVER AND PEDESTRIAN,n/a,IH-35,No,-97.733502,30.267503
+Pedestrian,17,1,14-1160537,500 Block S MOPAC SB Frontage Rd.,David,04/26/2014,Apr,Sat,6,06:46:00,MV/PED,,Pedestrian,N,N,driver unknown,PEDESTRIAN,n/a,other highway,yes,-97.777489,30.268938
+Motor Vehicle,18,2,14-1220761,1900 Block Barton Hills Dr,David,05/02/2014,May,Fri,10,10:49:00,MV/FO,DOO,Driver and Passenger,Y,N,okay,NONE,seatbelts worn,local,No,-97.781355,30.257395
+Motorcycle,19,1,14-1381081,6900 block Old Bee Caves Rd,David,05/18/2014,May,Sun,15,15:28:00,MC/ROR,DOO,MC Driver,N,N,okay,DRIVER,no helmet,local,No,-97.87126,30.237744
+Motor Vehicle,20,1,14-1460575,7800 N. IH35 SB,Ida,05/26/2014,May,Mon,9,09:40:00,MV/ROR,No Charges,passenger,N,N,suspended,NONE,no seatbelt,IH-35,No,-97.700601,30.339498
+Motor Vehicle,21,1,14-1492152,Springdale Rd & E. 51st,Ida,05/29/2014,May,Thu,23,23:06:00,MV/FO,DOO,Driver,Y,N,No license,DRIVER,no seatbelt,local,no,-97.678767,30.294168
+Motorcycle,22,1,14-1562012,E US 290 Hwy Svrd EB/N SH 130 Svrd NB,Edward,06/05/2014,Jun,Thu,21,21:42:00,MV/MC,No Charges,Driver,N,Y,okay,NONE,no helmet,Other High Speed Roadway,no,-97.590155,30.340026
+Pedestrian,49,1,14-3150887,5600 Sunshine Dr,Ida,11/11/2014,Nov,Tue,13,13:52:00,MV/PED,No Charges,Pedestrian,N,N,okay,NONE,n/a,parking lot,no,-97.729095,30.326259
+Motor Vehicle,23,2,14-1611519,E Parmer Lane / Harris Branch Pkwy,Edward,06/10/2014,Jun,Tue,18,18:50:00,MV/MV,Agg Ass with a motor Vehicle,Driver and Passenger,N,Y,No license,DRIVER,driver#2 had seatbelt,Local,No,-97.613107,30.36853
+Motorcycle,24,1,14-1781234,N MOPAC NB Flyover to NB Research Blvd,Adam,06/27/2014,Jun,Fri,15,15:08:00,MC/FO,DOO,MC Driver,Y,N,okay,DRIVER,no helmet,Other High Speed Roadway,no,-97.738173,30.379796
+Motor Vehicle,25,1,14-1571838,US290 SVRD EB / SH 130 SVRD SB,Edward,06/06/2014,Jun,Fri,20,20:39:00,MV/MV,No Charges,Passenger,N,Y,suspended,NONE,seatbelt worn,Other Highspeed Roadway,No,-97.591516,30.339515
+Motor Vehicle,26,1,14-1830837,10200 W Parmer ,Adam,07/02/2014,Jul,Wed,12,12:08:00,MV/MV,FTYROW,Passenger,N,N,No license,NONE,unknown,Local,no,-97.772948,30.492195
+Motorcycle,27,1,14-1860285,S IH35 NB / S 35 NB to E Ben White WB Ramp,Frank,07/05/2014,Jul,Sat,1,01:16:00,MC/FO,DOO,MC Driver,Y,N,okay,DRIVER,helmet,IH-35,no,-97.752327,30.21657
+Motor Vehicle,28,1,14-2080587,N US 183 SVRD SB/S Lakeline Blvd,Adam,07/27/2014,Jul,Sun,7,07:13:00,MV/MV,Class C,Passenger,N,Y,okay,NONE,seatbelt worn,Other High Speed Roadway,No,-97.803295,30.479426
+18 Wheeler,29,1,14-2110222,12100 N IH 35 SB,Edward,07/30/2014,Jul,Wed,3,03:24:00,18WHL/18WHL,No Charges,driver,N,N,okay,NONE,seatbelt worn,IH-35,No,-97.673681,30.383648
+Motorcycle,30,1,14-2170973,9500 Anderson Mill Rd,Adam,08/05/2014,Aug,Tue,13,13:29:00,MV/MC,No Charges,mc driver,Y,N,okay,NONE,no helmet,Local,no,-97.787876,30.449519
+Pedestrian,31,1,14-2191803,8300 N IH35 SVRD NB,Edward,08/07/2014,Aug,Thu,20,20:32:00,MV/PED,Intox Manslaughter,Pedestrian,Y,N,unk (FTSRA),DRIVER,n/a,IH-35,Yes,-97.694928,30.346835
+Motor Vehicle,32,1,14-2221586,10100 blk of S IH35 NB,Frank,08/10/2014,Aug,Sun,21,21:25:00,MV/FO,Intox Manslaughter,passenger,Y,N,okay,DRIVER,seatbelt worn,IH-35,No,-97.733163,30.269471
+Motorcycle,33,1,14-2241488,2800 E Parmer Ln,Edward,08/12/2014,Aug,Mon,18,18:56:00,MV/MC,No Charges,mc driver,N,N,okay,NONE,helmet,Local,No,-97.631734,30.376003
+Motorcycle,34,1,14-2270272,2400 E. 7th at Pedernales,Charlie,08/15/2014,Aug,Fri,3,03:56:00,MV/MC,DWI,MC Driver,Y,Y,suspended,BOTH DRIVERS,helmet,Local,No,-97.713716,30.260915
+Motor Vehicle,35,1,14-2360470,3400 S. Congress,David,08/24/2014,Aug,Sun,5,05:53:00,MV/MV,DOO,driver,N,Y,suspended,DRIVER,no seatbelt,Local,No,-97.760208,30.22965
+Motor Vehicle,36,1,14-2420458,6800 E US 290 HWY WB,Ida,08/30/2014,Aug,Sat,5,05:19:00,MV/FO,DOO,driver,Y,N,okay,DRIVER,no seatbelt,Other High Speed Roadway,No,-97.68433,30.321963
+Motor Vehicle,37,1,14-2500091,10 N IH35 SVRD,George,09/07/2014,Sep,Sun,0,00:49:00,MV/Other,DOO,driver,N,N,suspended,DRIVER,n/a,IH-35,No,-97.736236,30.250729
+Motor Vehicle,38,1,14-2560358,1500 Block S IH35 SB,David,09/13/2014,Sep,Sat,3,03:18:00,MV/18Wheeler,DOO,driver,N,N,okay,DRIVER,seatbelt worn,IH-35,No,-97.735467,30.243563
+Motor Vehicle,39,1,14-2570014,900 Block Bastrop Hwy NB,Henry,09/14/2014,Sep,Sun,0,00:05:00,MV/MV,DOO,driver,Y,N,okay,NONE,seatbelt worn,Other Highspeed Roadway,No,-97.682959,30.229497
+Motor Vehicle,40,1,14-2030970,3000 Blk S FM 973,Henry,07/22/2014,Jul,Tue,13,13:52:00,MV/Truck,Accidental,driver,N,N,okay,NONE,seatbelts worn,Other Highspeed Roadway,No,-97.638374,30.207249
+Motor Vehicle,41,1,14-2960803,Jollyville/Taylor Draper Ln,Adam,10/23/2014,Oct,Thu,12,12:07:00,MV/MV,No Charges,passenger,N,N,okay,NONE,seatbelt worn,local,No,-97.747558,30.409549
+Motor Vehicle,42,1,14-2980124,1400 Blk Kramer Lane,Edward,10/25/2014,Oct,Sat,0,00:53:00,MV/ROR,DOO,driver,Y,N,suspended,DRIVER,no seatbelt,Local,No,-97.6979,30.382712
+Motor Vehicle,43,1,14-3021765,11500 N SH 130 Svrd NB,Edward,10/29/2014,Oct,Wed,20,20:46:00,MV/MV,DOO,driver,N,Y,suspended,DRIVER,no seatbelt,Other Highspeed Roadway,No,-97.590688,30.341126
+Motor Vehicle,44,1,14-3041041,Parmer Lane/Scofield Farms,Edward,10/31/2014,Oct,Fri,12,12:32:00,MV/MV,Class C,Passenger,Y,N,okay,NONE,seatbelts worn,Local,no,-97.686689,30.411388
+Pedestrian,45,1,14-3050606,12200 block N. Mopac NB,Adam,11/01/2014,Nov,Sat,4,04:14:00,MV/PED,DOO,Pedestrian,N,N,okay,PEDESTRIAN,n/a,other highway,no,-97.706751,30.414121
+Motor Vehicle,46,1,14-2841214,Alice Mae Ln/Slaughter Ln,Frank,10/11/2014,Oct,Sat,16,16:59:00,MV/MV,DOO,driver,N,N,okay,NONE,seatbelts worn,Local,no,-97.793049,30.167559
+Pedestrian,47,1,14-3121764,6900 Block Ed Bluestein Blvd,Charlie,11/08/2014,Nov,Sat,22,22:12:00,MV/PED,DOO,Pedestrian,N,N,okay,NONE,n/a,other highway,no,-97.663108,30.315469
+18 Wheeler,48,1,14-3150019,9100 Research Blvd Svrd NB,Adam,11/11/2014,Nov,Tue,22,22:19:00,18 Wheeler/FO,DOO,driver,N,N,okay,DRIVER,unknown,Other High Speed Roadway,no,-97.728661,30.374358
+Pedestrian,50,1,14-3241842,300 W Anderson Ln,Ida,11/20/2014,Nov,Thu,21,21:50:00,MV/PED,DOO,Pedestrian,N,N,okay,PEDESTRIAN,n/a,local,no,-97.707256,30.344719
+Motorcycle,51,1,14-3270925,10200 Boulder Ln,Adam,11/23/2014,Nov,Sun,13,13:06:00,MV/MC,DOO,mc driver,Y,N,no MC license,NONE,helmet,Local,no,-97.84266,30.428784
+Motorcycle,52,1,14-3281561,McCallen Pass/Center Ridge Dr,Edward,11/24/2014,Nov,Mon,18,18:55:00,MV/MC,Class C,mc driver,N,N,no license,NONE,helmet,Local,no,-97.663369,30.414338
+Motor Vehicle,53,1,14-3340356,4600 E Riverside Dr,Henry,11/30/2014,Nov,Sun,3,03:32:00,MV/MV,Intox Assault,driver,Y,Y,okay,DRIVER,unknown,Local,no,-97.720396,30.232393
+Pedestrian,54,1,14-3371605,6400 S 1st St,Frank,12/03/2014,Dec,Wed,18,18:37:00,MV/PED,DOO,Pedestrian,N,N,suspended,PEDESTRIAN,n/a,Local,no,-97.785677,30.200544
+Motor Vehicle,55,1,14-3540447,800 W Dittmar,Frank,12/20/2014,Dec,Sat,4,04:28:00,MV/FO,DOO,driver,Y,N,okay,DRIVER,no seatbelt,Local,no,-97.798418,30.185692
+Motor Vehicle,56,1,14-3610910,S SH 130 Svrd SB/E SH 71 WB,Henry,12/27/2014,Dec,Sat,15,15:44:00,MV/MV,DOO,driver,N,Y,okay,NONE,seatbelt worn,Other Highspeed Roadway,no,-97.623452,30.194506

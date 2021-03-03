@@ -1,0 +1,87 @@
+Type,Fatal Crash Number,Number of Fatalities,Case Number,Location,Area,Date,Month,Day,Hour,Time,Related,Killed driver pass,Speeding,Ran Red Light or Stop Sign,DL Status incident,Suspected Impairment,Restraint type,Type of road,Failure to stop and render aid,X coord,Y coord,Homeless
+Pedestrian,1,1,19-0150158,10500 N IH 35 SB,ED,January 15 2019,Jan,Tue,6,06:19,18 wheeler/ped,n/a,false,false,ok,ped,n/a,IH35,false,-97.681335,30.368955,false
+Motor Vehicle,2,1,19-0161105,W William Cannon Dr / Ridge Oak Rd,DA,January 16 2019,Jan,Wed,15,15:42,MV/MV,driver,false,true,ok,none,seatbelts worn,Local Street,false,-97.861421,30.228131,false
+Pedestrian,3,1,19-0081623,3600 Block S Capital of Texas HWY SB,DA,January 08 2019,Jan,Tue,21,21:37,MV/ped,n/a,false,false,no dl,none,n/a,Other Highway,false,-97.801933,30.243596,true
+Pedestrian,4,1,19-0260086,6900 N IH 35 SB,ID,January 26 2019,Jan,Sat,1,01:03,mv/ped,n/a,false,false,ok,ped,n/a,IH35,false,-97.705467,30.330291,true
+Pedestrian,5,1,19-0320079,N IH 35 SVRD SB / E 6th St,GE,February 01 2019,Feb,Fri,0,00:52,MV/ped,n/a,false,false,ok,ped,No helmet - scooter,Local Street,false,-97.735003,30.265881,false
+Motorcycle,6,1,19-0370320,1000 W Oltorf,DA,February 06 2019,Feb,Wed,7,07:01,MV/MC,driver,false,false,ok,none,helmet worn,Local Street,false,-97.76508,30.244264,false
+Motor vehicle,7,1,19-0400694,6000 Block Springdale Rd,ID,February 09 2019,Feb,Sat,12,Dec-48,MV/FO,passenger,true,false,suspended,none,seatbelts worn,local street,false,-97.671406,30.30356,false
+pedestrian,8,1,19-0521569,8140 N Lamar Blvd SB,ED,February 21 2019,Feb,Thu,20,20:30,MV/Ped,n/a,,false,unk,none,n/a,high use road,true,-97.709464,30.350741,true
+pedestrian,9,1,19-0521894,7300 E Riverside Dr,HE,February 21 2019,Feb,Thu,23,23:57,MV/ped,n/a,false,false,ok,ped,n/a,high use road,false,-97.694243,30.220619,false
+Motor vehicle,10,1,19-0581824,Springdale / E 7th St,CH,February 27 2019,Feb,Wed,22,22:25,MV/MV,driver,true,true,suspended,driver,n/a,Local Street,false,-97.701673,30.256036,false
+bicycle,11,1,19-0871796,1300 E Martin Luther King Jr Blvd,Ch,March 28 2019,Mar,Thu,22,22:11,MV/BI,n/a,false,false,ok,bicyclist,No helmet,high use road,false,-97.728487,30.278568,false
+pedestrian,12,1,19-0881844,7300 S Congress Ave,Fr,March 29 2019,Mar,Fri,20,20:18,MV/ped,n/a,false,false,suspended,ped,n/a,high use road,false,-97.781001,30.186518,true
+pedestrian,13,1,19-0761827,30 blk N IH 35 NB,Ch,March 17 2019,Mar,Sun,21,21:31,MV/ped,n/a,false,false,no dl,none,n/a,IH35,false,-97.737028,30.257497,true
+Motor Vehicle,14,1,19-0800389,2300 Teri Ln,Fr,March 21 2019,Mar,Thu,7,07:40,mv/mv,passenger,false,false,no DL,unknown,unk,Local Street,true,-97.747309,30.198738,false
+Motor Vehicle,15,2,19-0921776,500 E Slaughter Ln,Fr,April 02 2019,Apr,Tue,22,22:01,mv/mv,both,false,false,ok,none,seatbelts worn,high use road,false,-97.778539,30.163793,false
+Motor Vehicle,16,1,19-0961200,14225 N SH W EB #14027,AD,April 06 2019,Apr,Sat,15,15:26,MV/MV,driver,false,false,ok,none,seatbelts worn,Other Highway,false,-97.765472,30.47602,false
+Motor Vehicle,17,1,19-0930132,E Wells Branch Pkwy / S Heatherwilde Blvd,Ed,April 03 2019,Apr,Wed,2,02:39,mv/ror,driver,true,true,ok,driver,unk,Local Street,false,-97.652923,30.432672,false
+Pedestrian,18,1,19-1070052,E Stassney / S Congress Ave,DA,April 17 2019,Apr,Wed,1,01:41,mv/ped,n/a,false,false,ok,ped,n/a,high use road,false,-97.774792,30.204945,true
+Motor Vehicle,19,1,19-1070614,Jollyville Rd / Balcones Woods Rd,AD,April 17 2019,Apr,Wed,10,10:22,MV/MV,driver,true,false,ok,none,n/a,high use road,false,-97.747867,30.407795,false
+Motor Vehicle,20,1,19-1080319,8000 block W US 290 HWY,DA,April 18 2019,Apr,Thu,6,06:53,MV/MV,driver,false,false,no dl,driver,n/a,Other Highway,false,-97.890863,30.229444,false
+Motor Vehicle,21,1,19-1080673,S FM 973 Rd / Pearce LN,HE,April 18 2019,Apr,Thu,10,10:15,MV/MV,driver,false,true,suspended,none,seatbelts worn,high use road,false,-97.646623,30.180581,false
+pedestrian,22,1,19-1110655,5600 N IH 35 SB,ID,April 21 2019,Apr,Sun,10,10:38,MV/ped,n/a,false,false,ok,none,n/a,IH35,false,-97.707815,30.315994,true
+Motor Vehicle,23,1,19-1040737,11200 N MOPAC EXPY SB,AD,April 14 2019,Apr,Sun,11,11:06,MV/MV,driver,false,false,ok,none,unk,Other Highway,false,-97.730009,30.40089,false
+Motor Vehicle,24,1,19-1161832,8200 RESEARCH BLVD SVRD SB,ID,April 26 2019,Apr,Fri,20,20:08,MV/MV,driver,true,true,no dl,none,unk,Other Highway,true,-97.715328,30.354776,false
+pedestrian,25,1,19-1220286,8700 N Lamar Blvd,ED,May 02 2019,May,Thu,6,06:09,MV/Ped,n/a,false,false,unk,ped,n/a,high use road,true,-97.702354,30.355748,true
+pedestrian,26,1,19-1270134,100 N IH 35 SB,GE,May 07 2019,May,Tue,2,02:54,MV/Ped,n/a,false,false,ok,ped,seatbelts worn,IH35,false,-97.737007,30.25975,true
+Motor Vehicle,27,1,19-1320369,11000-11400 N IH 35 NB,ED,May 12 2019,May,Sun,3,03:50,MV/MV,driver,false,false,no DL,driver,seatbelts worn,IH35,false,-97.674941,30.378861,false
+Motor Vehicle,28,1,19-1320666,1000 Block S Mopac Expwy NB,DA,May 12 2019,May,Sun,9,09:58,MV/FO,driver,,false,no DL,driver,seatbelts worn,Other Highway,false,-97.785805,30.264557,false
+Motor Vehicle,29,1,19-1321936,12100 N IH 35 SVRD NB,ED,May 12 2019,May,Sun,23,23:35,MV/FO,driver,true,false,no dl,driver,seatbelts worn,IH35,false,-97.671294,30.394254,false
+Motor Vehicle,30,1,19-1380171,Oak Springs / Airport,CH,May 18 2019,May,Sat,1,01:58,MV/MV,driver,false,false,no dl,driver,no seatbelt,high use road,false,-97.697907,30.273556,false
+Pedestrian,31,1,19-1381928,15100 N IH 35 NB,ED,May 18 2019,May,Sat,22,22:54,MV/Ped,n/a,false,false,ok,none,n/a,IH35,false,-97.668116,30.441687,false
+Motor Vehicle,32,1,19-1390962,2700 S Congress Ave,DA,May 19 2019,May,Sun,13,13:15,MV/FO,driver,true,false,suspended,driver,no seatbelt,high use road,false,-97.756365,30.235508,false
+Motor Vehicle,33,1,19-1521857,Morrow St / N Lamar Blvd,ID,June 01 2019,Jun,Sat,22,22:20,MV/MV,passenger,,false,no dl,driver,seatbelts worn,high use road,false,-97.714964,30.343974,false
+Motor Vehicle,34,1,19-1530277,Bundyhill Dr / E Martin Luther King Jr Blvd,CH,June 02 2019,Jun,Sun,2,02:48,MV/ROR,driver,false,true,suspended,driver,no seatbelt,Local Street,false,-97.677311,30.286393,false
+Pedestrian,35,1,19-1540252,12000-12520 S IH 35 SB,FR,June 03 2019,Jun,Mon,5,05:39,MV/ped,n/a,false,false,ok,ped,n/a,IH35,false,-97.801065,30.127707,true
+Motor Vehicle,36,1,19-1590874,8800 N Capital of Texas Hwy SB,AD,June 08 2019,Jun,Sat,12,12:28,MV/MV,driver,true,false,no dl,driver,pending,Other Highway,false,-97.759838,30.388155,false
+Motorcycle,37,1,19-1611200,400 E Oltorf,HE,June 10 2019,Jun,Mon,3,15:53,MV/MC,driver,false,false,no dl,none,helmet worn,Local Street,false,-97.751382,30.237467,false
+Motorcycle,38,1,19-1801699,Webbervile / Springdale,CH,June 29 2019,Jun,Sat,20,20:43,MC/FO,driver,true,false,ok,driver,no helmet,Local Street,false,-97.688539,30.276482,false
+Motor Vehicle,39,1,19-1880028,4604 E Ben White Blvd WB,HE,July 07 2019,Jul,Sun,0,00:15,MV/MV,passenger,false,false,suspended,none,no seatbelt,Other Highway,false,-97.731517,30.214917,false
+Pedestrian,40,1,19-1950368,200 N IH 35 SB,GE,July 14 2019,Jul,Sun,4,04:20,MV/ped,n/a,false,false,ok,none,n/a,IH35,false,-97.735747,30.262956,true
+Motorcycle,41,1,19-2031962,11000 Blk FM 2222,AD,July 22 2019,Jul,Mon,11,11:12,MC/FO,driver,true,false,no DL,driver,helmet worn,high use road,false,-97.848578,30.39648,false
+Pedestrian,42,1,19-2050100,1500 S IH 35 NB,HE,July 24 2019,Jul,Wed,1,01:28,MV/ped,n/a,false,false,ok,ped,n/a,IH 35,false,-97.7349,30.246208,true
+Pedestrian,43,1,19-2080141,8200 Block N IH 35 SB,ED,July 27 2019,Jul,Sat,1,01:37,Ped/18 wheeler,n/a,false,false,ok,ped,n/a,IH 35,false,-97.696888,30.344504,true
+Pedestrian,44,1,19-2090230,8801 Cameron Rd,ED,July 28 2019,Jul,Sun,2,02:37,MV/PED,n/a,false,false,suspended,ped,n/a,high use road,true,-97.677728,30.344825,false
+Pedestrian,45,1,19-2061923,5700 S Congress Ave,FR,July 25 2019,Jul,Thu,22,22:33,MV/ped,n/a,false,false,ok,none,n/a,high use road,false,-97.775209,30.203889,false
+Pedestrian,46,1,19-2160076,W William Cannon Dr / W US 290 HWY,DA,August 04 2019,Aug,Sun,2,02:44,MV/ped,n/a,false,false,ok,ped,n/a,Other Highway,false,-97.86478,30.234056,false
+Motorcycle,47,1,19-2191570,6600 Blk E Howard Ln,CH,August 07 2019,Aug,Wed,19,19:25,MC/FO,driver,false,false,ok,driver,no helmet,Local Street,false,-97.601527,30.376621,false
+Pedestrian,48,1,19-2241378,1800 Block W Parmer Ln,AD,August 12 2019,Aug,Mon,17,17:09,MV/ped,n/a,false,false,ok,ped,n/a,high use road,false,-97.690618,30.413218,false
+Motor vehicle,49,1,19-2280292,3505 Montopolis Dr,HE,August 16 2019,Aug,Fri,3,03:00,MV/fo,passenger,true,false,no dl,none,no seatbelt,Local Street,true,-97.715409,30.207273,false
+Motorcycle,50,2,19-2291933,5700-5703 Mount Bonnell Rd,BA,August 17 2019,Aug,Sat,22,22:21,MV/MC,both,,false,no dl,driver,helmet worn,high use road,false,-97.77695,30.341319,false
+Motor Vehicle,51,1,19-2311712,515 E Slaughter Ln,FR,August 19 2019,Aug,Mon,23,23:55,MV/MV,driver,false,false,ok,driver,no seatbelt,high use road,false,-97.778568,30.164089,false
+bicycle,52,1,19-2351073,4242 S IH 35 SVRD SB #4108,DA,August 23 2019,Aug,Fri,12,12:59,MV/BI,n/a,false,false,ok,bicyclist,no helmet,high use road,false,-97.753002,30.214997,true
+Motor Vehicle,53,1,19-2440191,10214 N IH 35 SVRD SB,ED,September 01 2019,Sep,Sun,1,01:49,MV/FO,Driver,true,false,ok,driver,seatbelts worn,I35,false,-97.682889,30.366994,false
+Motorcycle,54,1,19-2440444,9200 Block Metric Blvd,ED,September 01 2019,Sep,Sun,5,05:17,MV/MC,Driver,false,false,ok,driver,helmet worn,Local Street,false,-97.721749,30.373529,false
+Pedestrian,55,1,19-2450248,1600 N IH 35 SB,BA,September 02 2019,Sep,Mon,3,03:09,Ped/18 wheeler,n/a,false,false,ok,ped,n/a,I35,false,-97.731308,30.275386,true
+Pedestrian,56,1,19-2500231,6500 N IH 35 SB,ID,September 07 2019,Sep,Sat,2,02:20,MV/ped,n/a,false,false,ok,ped,n/a,I35,false,-97.70633,30.326258,true
+Pedestrian,57,1,19-2540094,12400 N IH 35 NB,ED,September 11 2019,Sep,Wed,1,01:40,MV/ped,n/a,false,false,ok,ped,n/a,I35,false,-97.669464,30.433304,false
+Motorcycle,58,1,19-2540190,7600 E US290 HWY WB,ID,September 11 2019,Sep,Wed,4,04:37,MC/ROR,driver,false,false,suspended,driver,no helmet,Other Highway,false,-97.674895,30.221611,false
+Motorcycle,59,1,19-2560573,10100 E US 290 HWY SVRD WB,CH,September 13 2019,Sep,Fri,8,08:42,MV/MC,driver,false,false,ok,none,helmet worn,Other Highway,false,-97.58065,30.34495,false
+Pedestrian,60,1,19-2661710,9000 S Congress Ave,FR,September 23 2019,Sep,Mon,20,20:00,MV/ped,n/a,false,false,ok,driver,n/a,high use road,false,-97.788551,30.167279,true
+Motor Vehicle,61,1,19-2700846,E Parmer / Dessau Rd,ED,September 27 2019,Sep,Fri,11,11:27,MV/FO,driver,true,true,suspended,none,no seatbelt,high use road,false,-97.648592,30.387004,false
+Pedestrian,62,1,19-2711895,421 E Yager Ln,ED,September 28 2019,Sep,Sat,22,22:12,MV/ped,n/a,false,false,unk,none,n/a,Local Street,false,-97.666256,30.395757,false
+Motor Vehicle,63,1,19-2732043,7400 S IH 35 SB,FR,September 30 2019,Sep,Mon,23,23:58,MV/18 Wheeler,driver,false,false,ok,none,seatbelts worn,I35,false,-97.776462,30.181906,false
+Pedestrian,64,1,19-2761969,7213 Cameron,ID,October 03 2019,Oct,Thu,22,22:39,Mv/ped,n/a,false,false,ok,ped,n/a,high use road,false,-97.784272,30.23619,true
+Motor Vehicle,65,1,19-2650413,9900 S IH 35 NB,FR,September 22 2019,Sep,Sun,3,03:56,MV/FO,driver,false,false,no dl,driver,seatbelts worn,I35,false,-97.790471,30.156324,false
+Pedestrian,66,1,19-2861035,1000 W Willian Cannon,FR,October 13 2019,Oct,Sun,15,15:32,MV/ped,n/a,false,false,Ok,none,n/a,high use road,false,-97.793612,30.199257,false
+Motor Vehicle,67,1,19-2830834,E Stassney LN / S IH 35 SVRD NB,FR,October 17 2019,Oct,Thu,9,09:55,MV/MV,passenger,false,true,Ok,none,pending,high use road,false,-97.763657,30.198195,false
+Motor Vehicle,68,1,19-2990061,9700 N IH 35 NB,ED,October 26 2019,Oct,Sat,0,00:23,MV/FO,Driver,,false,ok,driver,unknown,Other Highway,false,-97.774224,30.474036,false
+Motor Vehicle,69,1,19-3000691,10700 Burnet Rd.,AD,October 27 2019,Oct,Sun,8,08:44,MV/ROR,passenger,true,false,Ok,none,no seatbelt,high use road,false,-97.721752,30.391173,false
+Motor Vehicle,70,1,19-3020781,4800 N IH 35 SVRD SB,BA,October 29 2019,Oct,Tue,13,13:37,MV/FO,driver,true,false,suspended,driver,seatbelts worn,I35,false,-97.712186,30.307096,false
+Pedestrian,71,1,19-3102011,1413 W William Cannon,FR,November 06 2019,Nov,Wed,21,21:41,MV/PED,n/a,false,false,Ok,ped,n/a,high use road,false,-97.798951,30.20037,false
+Pedestrian,72,1,19-3181630,1100 E 51st St,ID,November 14 2019,Nov,Thu,20,20:36,MV/PED,n/a,false,false,ok,none,n/a,high use road,false,-97.709755,30.309108,false
+Motor Vehicle,73,1,19-3200312,8300 E US 290 SVRD EB,CH,November 16 2019,Nov,Sat,5,05:01,MV/FO,driver,true,false,Ok,driver,no seatbelt,Other Highway,false,-97.665486,30.327217,false
+Motor Vehicle,74,1,19-3201421,5808 Burnet Rd,BA,November 16 2019,Nov,Sat,19,19:05,MV/MC,driver,true,false,ok,none,no helmet,high use road,false,-97.739859,30.334491,false
+Pedestrian,75,1,19-3251584,800 Block E William Cannon Dr,FR,November 21 2019,Nov,Thu,19,19:18,MV/ped,n/a,false,false,ok,ped,n/a,high use road,false,-97.771914,30.190949,true
+Motorcycle,76,1,19-3281398,1100 E Ben White Blvd Svrd WB,DA,November 24 2019,Nov,Sun,19,19:15,Mv/MC,driver,true,false,ok,driver,helmet worn,Other Highway,false,-97.75373,30.217431,false
+Motor Vehicle,77,1,19-3341784,8500 S Congress ve,FR,November 30 2019,Nov,Sat,23,23:41,MV/MV,passenger,false,false,ok,driver,seatbelts worn,Local Street,false,-97.785229,30.17311,false
+Motor Vehicle,78,1,19-3161144,6700 Johnny Morris,CH,November 12 2019,Nov,Tue,16,16:34,MV/MV,passenger,,false,no dl,none,unk,Local Street,false,-97.648197,30.300272,false
+Motor Vehicle,79,1,19-3400361,8700 W SH 71,DA,December 06 2019,Dec,Fri,6,06:53,MV/MV,driver,false,false,Ok,driver,seatbelts worn,Other Highway,false,-97.895508,30.250479,false
+Motor Vehicle,80,1,19-3411777,9700 N IH 35 NB,ED,December 07 2019,Dec,Sat,21,21:29,MV/18 Wheeler,driver,false,false,Ok,driver,seatbelts worn,IH 35,false,-97.685394,30.362224,false
+Pedestrian,81,1,19-3471756,2000 E Oltorf St,HE,December 13 2019,Dec,Fri,19,19:34,MV/Ped,N/A,false,false,ok,none,n/a,Local Street,false,-97.733366,30.230846,
+Pedestrian,82,1,19-3500150,6100 Cameron Rd,ID,December 16 2019,Dec,Mon,2,02:26,MV/ped,n/a,,false,unk,unknown,n/a,Local Street,true,-97.697831,30.318902,true
+Motor Vehicle,83,1,19-3510124,100 E Ben White Blvd SVRD EB,DA,December 17 2019,Dec,Tue,4,04:44,MV/FO,driver,true,false,Ok,driver,seatbelts worn,Other Highway,false,-97.763598,30.223409,false
+Pedestrian,84,1,19-3530313,7600 W SH 71,DA,December 19 2019,Dec,Thu,6,06:53,MV/ped,n/a,false,false,pending,none,n/a,Other Highway,false,-97.880916,30.240668,false
+Pedestrian,85,1,19-3560188,11200 Dessau,ED,December 22 2019,Dec,Sun,2,02:25,MV/ped,n/a,false,false,ok,none,n/a,high use road,false,-97.665833,30.3725,false
+Pedestrian,86,1,19-3651208,6729 Manor,CH,December 31 2019,Dec,Tue,18,16:11,MV/ped,n/a,false,false,pending,ped,n/a,high use road,false,-97.66682,30.310396,true

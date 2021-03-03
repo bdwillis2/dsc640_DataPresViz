@@ -1,0 +1,73 @@
+Type,FATAL CRASH #,Number of Fatalities,CASE NUMBER,LOCATION,AREA,Date,Month,Day,Hour,Time,Related,Killed: Driver/Pass,speed,Ran Red Light,Drivers License Status,SUSPECTED IMPAIRMENT,restraint or helmet,TYPE OF ROAD,FTSRA,XCOORD,YCOORD
+Motorcycle,1,2,13-0011875,1100 Berger St,Charlie,01/01/2013,Jan,Tue,18,18:50:00,MC/FO,Driver and Passenger,,N,suspended license for many years for DWLI also did not have no motorcycle endorsement or insurance.  2 fatalities,Driver,no helmet,Local Street,No,-97.68788,30.269347
+Motor Vehicle,2,1,13-0030199,12600 S. IH 35 NB proper,Frank,01/03/2013,Jan,Thu,4,04:10:00,MV/FO,Passenger,,N,okay,NONE,seatbelt worn,IH-35,No,-97.803716,30.12022
+Motor Vehicle,3,1,13-0080360,5000 Sara Dr,Charlie,01/08/2013,Jan,Tue,7,07:30:00,MV/FO,Driver,,N,suspended license for many years for DWLI and no insurance.,Driver,seatbelt worn,Local Street,No,-97.687103,30.267664
+Motor Vehicle,4,1,13-0150689,10300 Block S. IH35 NB,Frank,01/15/2013,Jan,Tue,11,11:31:00,18WHL/MV,Driver,,N,suspended license,NONE,unknown,IH-35,No,-97.791976,30.151241
+Motor Vehicle,5,1,13-181143,6500 Block Northeast Dr,Ida,01/18/2013,Jan,Fri,15,15:28:00,MV/FO,Driver,x,N,suspended license,Driver,no seatbelt,Local Street,No,-97.681544,30.315898
+Motorcycle,6,1,13-191317,12500 Block Lamplight Village,Adam,01/19/2013,Jan,Sat,17,17:08:00,MC/FO,MC Driver,,N,suspended license,Driver,helmet,Local Street,No,-97.695888,30.415821
+Motor Vehicle,7,1,13-100224,8500 Georgian Dr,Edward,01/10/2013,Jan,Thu,4,04:03:00,MV/FO,Driver,x,N,No license. Driver 15.,NONE,unknown,Local Street,No,-97.700756,30.351081
+Motor Vehicle,8,1,13-300042,1500 Block E. Howard,Edward,01/30/2013,Jan,Wed,0,00:28:00,MV/FO,Driver,x,N,okay,Driver,no seatbelt,Local Street,No,-97.642155,30.406236
+Pedestrian,9,1,13-0331698,4300 Block S. 1st St.,David,02/02/2013,Feb,Sat,20,20:52:00,MV/PED,Pedestrian,,N,okay,Pedestrian,n/a,Local Street,No,-97.77159,30.223113
+Pedestrian,10,1,13-0371743,4400 BLK N MoPac Expy SB,Baker,02/06/2013,Feb,Wed,20,20:10:10,MV/PED,Pedestrian,,N,okay,Pedestrian,n/a,other highway,No,-97.75633,30.318529
+Motor Vehicle,11,1,13-0430572,4000 blk FM 2222,Baker,02/12/2013,Feb,Tue,10,10:58:00,MV/MV,driver,x,N,okay,NONE,seatbelt worn,Local Street,No,-97.769631,30.341323
+Pedestrian,12,1,13-0481841,7800  N. IH 35 Svrd. SB,Edward,02/17/2013,Feb,Sun,23,23:12:00,MV/PED,Pedestrian,,N,unknown driver,Pedestrian,n/a,IH-35,Yes,-97.700601,30.339498
+Motor Vehicle,13,1,13-0501182,12500 Block Riata Vista Circle,Adam,02/19/2013,Feb,Tue,14,14:57:00,MV/FO,Passenger,,N,okay,Driver,no seatbelt,Local Street,No,-97.735461,30.430413
+Motor Vehicle,14,1,13-0522144,"10200 block Old Manchaca Rd,",Frank,02/21/2013,Feb,Thu,23,23:37:00,MV/FO,passenger,,N,okay,NONE,no seatbelt,Local Street,Yes,-97.826771,30.160693
+Pedestrian,15,1,13-0530316,7400 block S. IH35 SB Svrd,Frank,02/22/2013,Feb,Fri,3,03:50:00,MV/PED,Pedestrian,,N,unknown driver,NONE,n/a,IH-35,Yes,-97.776605,30.182147
+Motor Vehicle,16,1,13-0630367,8900 E. Parmer Ln,Edward,03/04/2013,Mar,Mon,7,07:29:00,MV/ROR,driver,x,N,No license,NONE,seatbelt worn,Local Street,No,-97.588595,30.350896
+Pedestrian,17,1,13-0670202,1600 Wickersham,Henry,03/08/2013,Mar,Fri,2,02:20:00,MV/PED,Pedestrian,,N,unknown driver,Pedestrian,n/a,Parking Lot,Yes,-97.718699,30.235657
+Motorcycle,18,1,13-0720383,2800 block S SH 130 NB EF,Henry,03/13/2013,Mar,Wed,7,07:45:00,MC/FO,mc driver,,N,okay,Driver,unknown,Other High Speed Roadway,No,-97.621598,30.208385
+Pedestrian,19,1,13-0721075,Chicon St / E Cesar Chavez,Charlie,03/13/2013,Mar,Wed,14,14:30:00,MV/PED,Pedestrian,,N,okay,NONE,,Local Street,No,-97.72461,30.257132
+Motorcycle,20,1,13-0761130,9480 FM 2222,Adam,03/17/2013,Mar,Sun,14,14:20:00,MV/MC/MC,mc driver,,N,No license,NONE,no helmet,Local Street,No,-97.826268,30.389083
+Motor Vehicle,21,1,13-0812198,Springdale Rd / Pecan Brook Dr,Charlie,03/22/2013,Mar,Fri,22,22:45:00,MV/MV,driver,,Y,No license,Driver,no seatbelt,Local Street,Yes,-97.661363,30.318695
+Pedestrian,22,1,13-0820489,3300 block S. US 183 HWY SB,Henry,03/23/2013,Mar,Sat,7,07:45:00,MV/Ped,Pedestrian,,N,unknown driver,Pedestrian,,other highway,Yes,-97.683733,30.201501
+Motor Vehicle,23,1,13-0920787,6800 block Decker Lane,Charlie,04/02/2013,Apr,Tue,11,11:38:00,MV/MV,driver,,N,suspended license,Driver,seatbelt worn,Local Street,No,-97.627072,30.292614
+Pedestrian,24,1,13-0990275,3100 block E. State Hwy 71,Henry,04/09/2013,Apr,Tue,6,06:04:00,MV/PED,Pedestrian,,N,okay,NONE,n/a,other highway,No,-97.641246,30.203936
+Pedestrian,25,1,13-1081685,9500 Block N IH35 NB,Edward,04/18/2013,Apr,Thu,20,20:35:00,MV/PED,Pedestrian,,N,okay,Pedestrian,n/a,IH-35,No,-97.687226,30.359323
+Pedestrian,26,1,13-1100118,Ed Bluestein Blvd SB / Loyola Ln,Charlie,04/20/2013,Apr,Sat,0,00:50:00,MV/PED,Pedestrian,,N,okay,Pedestrian,n/a,other highway,No,-97.660994,30.302634
+Motorcycle,27,1,13-1100201,9811 Anderson Mill Road,Adam,04/20/2013,Apr,Sat,1,01:31:00,MC/ROR,mc driver,,N,okay,Driver,helmet,Local Street,No,-97.795079,30.447456
+Motor Vehicle,28,1,13-1111560,6200 Block W US 290 HWY WB,David,04/21/2013,Apr,Sun,20,20:24:00,MV/MV,passenger,,N,No license,Driver,unknown,Other High Speed Roadway,Yes,-97.8566,30.235513
+Pedestrian,29,1,13-1271873,6800 N. Lamar,Ida,05/07/2013,May,Tue,22,22:08:00,MV/PED,Pedestrian,,N,No license,Pedestrian,n/a,high speed roeadway,Yes,-97.720165,30.335683
+Pedestrian,30,1,13-1310154,2900 block E. Highwy 71 EB,Henry,05/11/2013,May,sat,1,01:11:00,MV/PED,Pedestrian,,N,okay,NONE,n/a,other highway,No,-97.648145,30.207487
+Motor Vehicle,31,1,13-1441421,4800 blk S FM 973 Rd,Henry,05/24/2013,May,Fri,16,16:42:00,MV/ROR,driver,,N,unknown,NONE,unknown,Local Street,No,-97.646081,30.181936
+Motorcycle,32,1,13-1640086,6400 S IH 35 NB SVC RD,Frank,06/13/2013,Jun,Thu,1,01:20:00,MC/FO,mc driver,,N,okay,Driver,no helmet,IH-35,No,-97.770106,30.190256
+Motor Vehicle,33,1,13-1640264,5530 Burnet Rd,Adam,06/13/2013,Jun,Thu,5,05:33:00,MV/FO,driver,x,N,okay,NONE,seatbelt worn,Local Street,No,-97.739917,30.330438
+Motor Vehicle,34,1,13-1642048,5800 block City Park Rd,Adam,06/13/2013,Jun,Thu,23,23:37:00,MV/FO,driver,x,N,okay,Driver,seatbelt worn,Local Street,No,-97.806568,30.363974
+Motorcycle,35,1,13-1690289,3900 Block Guadalupe Dr,Baker,06/18/2013,Jun,Tue,6,06:02:00,MV/MC,driver,,N,okay,NONE,unknown,Local Street,No,-97.737274,30.304103
+Pedestrian,36,1,13-1711879,3500 Block IH35 SB,Baker,06/20/2013,Jun,Thu,21,21:24:00,MV/PED,Pedestrian,,N,okay,Pedestrian,n/a,IH-35,No,-97.728674,30.280882
+Pedestrian,37,1,13-1740490,4400 Block S Mopac Expy SB,David,06/23/2013,Jun,Sun,6,06:02:00,MV/PED,Pedestrian,,N,unknown,Pedestrian,n/a,other highway,No,-97.815177,30.240938
+Pedestrian,38,1,13-1741450,1130 Block Airport Blvd,Charlie,06/23/2013,Jun,Sun,19,19:48:00,MV/PED,Pedestrian,,N,unknown,Pedestrian,n/a,Local Street,No,-97.696115,30.267367
+BICYCLE,39,1,13-1690651,6600 W US Hwy 290,David,06/18/2013,Jun,Tue,12,12:28:00,MV/BI,bicyclist,,N,okay,NONE,n/a,Other High Speed Roadway,No,-97.864764,30.234065
+Motor Vehicle,40,1,13-1810380,6700 E US Hwy 290,Ida,06/30/2013,Jun,Sun,3,03:27:00,MV/FO,Passenger,x,N,okay,Driver,no seatbelt,Other High Speed Roadway,No,-97.69306,30.321091
+Pedestrian,41,1,13-1631964,1931 E Oltorf St,Henry,06/12/2013,Jun,Wed,22,22:55:00,MV/PED,Pedestrian,,N,suspended license,Driver,n/a,Local Street,Yes,30.231011,-97.734398
+Motor Vehicle,42,1,13-1970713,Research Blvd Svrd NB & Duval,Adam,07/15/2013,Jul,Tue,12,12:04:00,MV/MV,driver,,Y,okay,NONE,seatbelt worn,Other High Speed Roadway,no,30.419,-97.747327
+Motor Vehicle,43,1,13-2000992,5700 E Martin Luther King Jr Blvd,Charlie,07/19/2013,Jul,Fri,12,12:34:00,MV/MV,driver,x,N,No license,NONE,no seatbelt,Local Street,No,30.28611,-97.664649
+Motorcycle,44,1,13-2001989,10600 Manchaca,Frank,07/19/2013,Jul,Fri,21,21:59:00,MV/MC,driver,,N,okay,NONE,helmet,Local Street,No,30.164574,-97.830058
+Pedestrian,45,1,13-2002105,1300 Block S IH35 NB,Henry,07/19/2013,Jul,Fri,22,22:48:00,MC/Ped,Pedestrian,,N,okay,Pedestrian,n/a,IH-35,No,30.243861,-97.735137
+Motorcycle,46,1,13-2010583,0 block Research Blvd SB,Adam,07/20/2013,Jul,sat,7,07:25:00,MC/FO,mc driver,x,N,okay,NONE,helmet,Other High Speed Roadway,No,30.348073,-97.712943
+Motor Vehicle,47,1,13-2020347,12500 block of McCallen Pass,Edward,07/21/2013,Jul,Sun,3,03:17:00,MV/MV,driver,,N,okay,NONE,no seatbelt,Local Street,No,30.402273,-97.670028
+Motor Vehicle,48,1,13-2060373,9000 Block N FM 620,Adam,07/25/2013,Jul,Thu,7,07:15:00,MV/FO,driver,,N,okay,NONE,no seatbelt,Local Street,No,30.430973,-97.841938
+Motor Vehicle,49,1,13-2140126,12900 Block N IH35 SB Svrd,Edward,08/02/2013,Aug,Fri,1,01:02:00,MV/ROR,driver,x,N,No license,Driver,no seatbelt,IH-35,No,30.40803,-97.675235
+Motorcycle,50,1,13-2220145,7600 E. Ben White EB,Henry,08/10/2013,Aug,Sat,1,01:19:00,MV/MC,mc driver,,N,okay,NONE,helmet,Other High Speed Roadway,Yes,30.218285,-97.690489
+Motor Vehicle,51,1,13-2240139,1400 Bastrop Highway Svrd,Henry,08/12/2013,Aug,Mon,2,02:10:00,MV/MV,driver,,N,okay,Driver,seatbelt worn,Other High Speed Roadway,No,30.22426,-97.682802
+Motor Vehicle,52,1,13-2440409,3100 E SH 71 EB,Henry,09/01/2013,Sep,sun,3,03:34:00,MV/MV,driver,,N,okay,NONE,seatbelt worn,Other High Speed Roadway,No,30.204719,-97.642804
+Motor Vehicle,53,1,13-2470176,FM 1825 & Wells Branch Parkway,Edward,09/04/2013,Sep,Wed,2,02:15:00,MV/FO,driver,x,N,okay,Driver,no seatbelt,Local Street,No,30.441168,-97.666175
+Motor Vehicle,54,1,13-2510197,11135 N IH35 Svrd NB,Edward,09/08/2013,Sep,Sun,1,01:45:00,MV/FO,driver,x,N,no license,Driver,no seatbelt,IH-35,No,30.376348,-97.675979
+Motor Vehicle,55,1,13-2530936,E. MLK  Blvd and E.M. Franklin Ave,Charlie,09/10/2013,Sep,Tue,13,13:22:00,MV/MV,driver,,Y,okay,Driver,no seatbelt,Local Street,No,30.28373,-97.696093
+Motor Vehicle,56,1,13-2631827,Manchaca Rd/Dittmar Rd,Frank,09/20/2013,Sep,Fri,20,20:37:00,MV/MV,passenger,,N,supsended for DWI,Driver,seatbelt worn,Local Street,No,30.185927,-97.816306
+Pedestrian,57,1,13-2710828,5710 Glen Meadow Dr,Frank,09/28/2013,Sep,Sat,11,11:08:00,MV/PED,Pedestrian,,N,suspended license,NONE,n/a,Local Street,Yes,30.204267,-97.777862
+Motor Vehicle,58,1,13-2861308,1700 W. Ben White EB,David,10/13/2013,Oct,Sun,16,16:39:00,MV/MV,driver,,N,okay,Driver,seatbelt worn,Other High Speed Roadway,No,30.228687,-97.785726
+Motor Vehicle,59,1,13-2930450,9100 S. IH 35 SVRD SB,Frank,10/20/2013,Oct,Sun,4,04:39:00,MV/FO,driver,x,N,okay,Driver,no seatbelt,IH-35,No,30.166658,-97.787111
+Motor Vehicle,60,2,13-2960081,12000 N MOPAC Expy NB,Adam,10/23/2013,Oct,Wed,0,00:52:00,MV/MV,both drivers,,N,okay,Driver,seatbelt worn,Other High Speed Roadway,No,30.409428,-97.712171
+Motor Vehicle,61,1,13-2971834,1700 E SH71 WB,Henry,10/24/2013,Oct,Thu,21,21:11:00,MV/ROR,Passenger,,N,okay,NONE,no seatbelt,Other High Speed Roadway,No,30.22016,-97.671929
+Motor Vehicle,62,1,13-2981930,4400 Block Manchaca,David,10/25/2013,Oct,Fri,22,22:20:00,MV/MC,driver,x,N,motorcyclist - suspended license,NONE,no seatbelt,Local Street,No,30.229529,-97.788591
+Motor Vehicle,63,1,13-2991813,3800 N Capital of Texas,Baker,10/26/2013,Oct,Sat,21,21:45:00,MV/MV,passenger,,N,okay,Driver,unknown,Local Street,No,30.336222,-97.80548
+Pedestrian,64,1,13-3042320,7100 Block Ed Bluestein,Charlie,10/31/2013,Oct,Thu,21,21:16:00,MV/PED,Pedestrian,,N,unknown driver,Pedestrian,n/a,other highway,Yes,30.315469,-97.663108
+Motor Vehicle,65,1,13-3161832,5900 Block S IH 35 NB,Frank,11/12/2013,Nov,Tue,22,22:25:00,MV/FO,driver,,N,okay,NONE,seatbelt worn,IH-35,No,30.196626,-97.765377
+Motor Vehicle,66,1,13-3280256,8200 block Old Bee Caves Road,David,11/24/2013,Nov,Sun,2,02:25:00,MV/FO,driver,,N,okay,NONE,seatbelt worn,Local Street,No,30.248801,-97.885898
+Motor Vehicle,67,1,13-3310258,FM 969 / Nixon Lane,Charlie,11/27/2013,Nov,Wed,5,05:53:00,MV/MV,driver,,N,okay,NONE,seatbelt worn,Local Street,No,30.279944,-97.645568
+Pedestrian,68,1,13-3311692,6400 BLK FM 969,Charlie,11/27/2013,Nov,Wed,21,21:58:00,MV/PED,Pedestrian,,N,okay,Pedestrian,n/a,high speed roeadway,No,30.284778,-97.660153
+Pedestrian,69,1,13-3330477,5104 Beverly Hills Dr,Baker,11/29/2013,Nov,Fri,9,09:44:00,MV/PED,Pedestrian,,N,okay,NONE,n/a,Local Street,No,30.337134,-97.766676
+Pedestrian,70,1,13-3411356,500 W. Ben White EB,David,12/07/2013,Dec,Sat,20,20:17:00,MV/PED,Pedestrian,,N,okay,Pedestrian,n/a,other highway,No,30.225812,-97.768352
+Motor Vehicle,71,2,13-3611885,7600 block FM 620,Adam,12/27/2013,Dec,Fri,23,23:30:00,MV/MV,driver,x,N,okay,Driver,seatbelt worn,Other High Speed Roadway,Yes,30.409724,-97.85101
+Motor Vehicle,72,1,13-3641035,3400 W Parmer,Adam,12/30/2013,Dec,Mon,15,15:57:00,MV/MV,passenger,,N,okay,NONE,unknown,Local Street,No,30.422342,-97.70823
