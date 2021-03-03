@@ -1,7 +1,9 @@
-# VERSION: 3
+# Version: 4
 library(dplyr)
 library(readxl)
 library(reshape2)
+
+# This is only really used actively when I was doing testing the terminal
 options('width'=270)
 
 # Quicvk function to read and  have smiilar transforms to normal set
@@ -66,6 +68,7 @@ airline_safety$start_year = format(as.Date(gsub("-[0-9]{2}", "", airline_safety$
 airline_safety$end_year = format(as.Date(gsub("[0-9]{2}-", "", airline_safety$year_strings), format="%y"), format="%Y")
 airline_safety$year = airline_safety$end_year
 airline_safety$transportation_type = "airline"
+airline_safety$source = "airline_safety"
 
 # Transforming supporting data sets
 base_crash_fatality_2012$year = format(base_crash_fatality_2012$Date, format="%Y")
@@ -77,9 +80,18 @@ incidents_crash_fatality_2012$incident_type = "fatal_accidents"
 incidents_crash_fatality_2012$value = 1
 fatalities_crash_fatality_2012$incident_type = "fatalities"
 fatalities_crash_fatality_2012$value = 1
+incidents_crash_fatality_2012$source = "apd_crash"
+fatalities_crash_fatality_2012$source = "apd_crash"
+
 crash_report = melt(crash_report, id.vars="Year")
 crash_report$year = as.character(crash_report$Year)
 crash_report$transportation_type = "motor_vehicles"
+crash_report$incident_type = "fatal_accidents"
+crash_report_fatalities = crash_report
+crash_report_fatalities$incident_type = "fatalities"
+crash_report$source = "fars"
+crash_report_fatalities$source = "fars"
+
 monroe_county_crash$year = as.character(monroe_county_crash$Year)
 monroe_county_crash = monroe_county_crash %>% mutate(month=case_when(
   Month == 1 ~ "January",
@@ -96,14 +108,10 @@ monroe_county_crash = monroe_county_crash %>% mutate(month=case_when(
   Month == 12 ~ "December",
 ), Day=as.character(Day), Month=as.character(Month))
 monroe_county_crash$transportation_type = "motor_vehicles"
+monroe_county_crash$source = "monroe_county"
 
-# Now start mangling it together
-finalized_structure = bind_rows(
-  airline_safety,
-  crash_report,
-  monroe_county_crash,
-  incidents_crash_fatality_2012,
-  fatalities_crash_fatality_2012,
+# Few changes to the fatality data overall to make sure it's easier in Tableau to operate on
+apd_fatality_df = bind_rows(
   apd_fatality_2013,
   apd_fatality_2014,
   apd_fatality_2015,
@@ -113,4 +121,29 @@ finalized_structure = bind_rows(
   apd_fatality_2019
 )
 
-write.csv(file="visualization_data_task3.csv", finalized_structure, row.names=FALSE)
+apd_fatality_df$source = "apd_crash"
+
+# Now start mangling it together
+final_df = bind_rows(
+  airline_safety,
+  crash_report,
+  crash_report_fatalities,
+  monroe_county_crash,
+  incidents_crash_fatality_2012,
+  fatalities_crash_fatality_2012,
+  apd_fatality_df
+)
+
+# Going to prune some similar columns we are going to need and to make Tableau less confusing since it is case insensitive with names
+final_df[ c("Year", "X.COORD", "Y.COORD", "FATAL.CRASH..", "CASE.NUMBER",
+  "LOCATION", "AREA", "XCOORD", "YCOORD", "COORD.X", "X.coord", "Y.coord", "Victim",
+  "Failure.to.stop.and.render.aid", "Fatal.Crash.Number", "Case.Status", "DL.Status.incident",
+  "Weekend?", "Month"
+) ] = NULL
+
+# Going to optimize the structure a bit to make sure I get those that are actually characters
+final_df$year = as.integer(final_df$year)
+final_df <- final_df %>% mutate_if(is.character,as.factor)
+
+write.csv(file="visualization_data_presentation.csv", final_df, row.names=FALSE, na="")
+# save(final_df, file="visualization_data_presentation.RData")
